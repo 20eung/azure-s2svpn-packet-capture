@@ -56,7 +56,6 @@ Azure Portal에서 패킷 캡처를 설정할 수 있습니다.
 	![azure-storage-container-create-sas-options](/Files/azure-storage-container-create-sas-options.jpg)
 	
 6. SAS 토큰 및 SAS URL이 생성되고 단추 바로 아래에 표시됩니다. Blob **SAS URL**을 복사합니다.
-
 	![azure-storage-container-create-sas-options](/Files/azure-storage-container-create-sas-url.jpg)
 
 1. Azure Portal의 VPN(사이트 간) 패킷 캡처 페이지로 다시 이동하고 **패킷 캡처 중지** 단추를 클릭합니다.
