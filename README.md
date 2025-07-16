@@ -61,6 +61,7 @@ Azure Portal에서 패킷 캡처를 설정할 수 있습니다.
 1. Azure Portal의 VPN(사이트 간) 패킷 캡처 페이지로 다시 이동하고 **패킷 캡처 중지** 단추를 클릭합니다.
 
 2. 출력 SAS URL 텍스트 상자에 SAS URL(이전 단계의)을 붙여넣고 패킷 캡처 중지를 클릭합니다.
+	- ![azure-storage-container-create-sas-options](/Files/azure-vwan-hub-vpn-capture-4.jpg)
 
 3. 패킷 캡처(pcap) 파일은 지정된 계정에 저장됩니다.
 
